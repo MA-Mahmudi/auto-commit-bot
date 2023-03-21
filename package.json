@@ -1,0 +1,27 @@
+{
+  "name": "redundant-2",
+  "version": "1.0.0",
+  "description": "Treing to look cool",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MA-Mahmudi/redundant-2.git"
+  },
+  "author": "MA-Mahmudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MA-Mahmudi/redundant-2/issues"
+  },
+  "homepage": "https://github.com/MA-Mahmudi/redundant-2#readme"
+}
